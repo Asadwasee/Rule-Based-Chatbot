@@ -9,7 +9,7 @@ responses = {
     "help": "Chatbot: You can ask me about our 'products', 'payment' methods, or order 'status'."
 }
 
-print("--- DecodeLabs Rule-Based AI Chatbot ---") # [cite: 120]
+print("--- DecodeLabs Rule-Based AI Chatbot ---") 
 print("Type 'exit' or 'bye' to close the chatbot.\n")
 
 # 2. Continuous Loop 
