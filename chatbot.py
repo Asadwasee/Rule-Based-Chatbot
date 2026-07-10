@@ -1,3 +1,4 @@
+# DecodeLabs Internship - Week 1 Project
 # 1. Knowledge Base
 responses = {
     "hello": "Chatbot: Hello! Welcome to DecodeLabs Support. How can I help you today?",
